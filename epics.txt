@@ -1,0 +1,7 @@
+http://hobby2go.com/products/ics/linear-ics/ad620-detail
+----------------
+https://github.com/cypherkey/RaspberryPi.Net/blob/master/RaspberryPiDotNet/MCP3008.cs
+https://github.com/jerbly/Pi/blob/master/raspi-adc-pot.py
+http://jeremyblythe.blogspot.in/2012/09/raspberry-pi-hardware-spi-analog-inputs.html
+
+check the other videos
